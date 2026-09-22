@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+
+# Real holdings must never be committed -- use sample_positions.csv as the
+# template and keep your own file out of git.
+positions.csv
+scripts/positions.csv
